@@ -1,3 +1,5 @@
+// Using Reanimated pure
+
 import React, { useEffect } from 'react';
 import { Feather } from '@expo/vector-icons';
 import { View, Text } from 'react-native';
