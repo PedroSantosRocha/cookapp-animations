@@ -23,7 +23,7 @@ export function Header() {
   });
 
   useEffect(() => {
-    opacity.value = withTiming(1, { duration: 3000 });
+    opacity.value = withTiming(1, { duration: 2000 });
   }, [])
 
   return (

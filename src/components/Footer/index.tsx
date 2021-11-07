@@ -19,7 +19,7 @@ export function Footer() {
       }}
       transition={{
         type: 'timing',
-        duration: 3000,
+        duration: 2000,
       }}
     >
       <Text style={styles.label}>
